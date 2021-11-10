@@ -1,9 +1,10 @@
-<img src="https://github.com/hongvinhmobile/hongvinhmobile/blob/main/gif/banner_gif.gif?raw=true" height="260px" align="right" alt="Computador">
+<img src="https://media.giphy.com/media/908fS3eQFUodG/giphy-downsized-large.gif" height="260px" align="right" alt="Computador">
 
 <p align="justify" margin="80%"> 
 <br>
 I'm <strong>Eric Swanson</strong>, currently a full-stack developer working with <strong>React</strong>.
-Also, I'm a freelancer. If you have a need for a mobile application or website, contact me by email: <a href="erics1337@@gmail.com">erics1337@gmail.com</a><br><br>
+<!-- Also, I'm a freelancer. If you have a need for a mobile application or website, contact me by email:  -->
+Feel free to contact me at <a href="erics1337@@gmail.com">erics1337@gmail.com</a><br><br>
 <strong>My Blog</strong>: https://erics.design/blog <br>
 <strong>Fun fact</strong>: I learned to code while living off-grid <br>
 
