@@ -8,6 +8,7 @@ I'm <strong>Eric Swanson</strong>, currently a full-stack developer working with
 Feel free to contact me at <a href="erics1337@@gmail.com">erics1337@gmail.com</a><br><br>
 <strong>My Blog</strong>: https://erics.design/blog <br>
 <strong>Fun fact</strong>: I learned to code while living off-grid <br>
+</p>
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=erics1337&count_private=true&show_icons=true&theme=calm&include_all_commits=true" height="180em"/>
