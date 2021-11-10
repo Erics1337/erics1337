@@ -3,7 +3,9 @@
 
 <p align="justify" margin="80%"> 
 <br>
-I'm <strong>Eric Swanson</strong>, currently a full-stack developer working with <strong>React</strong>.
+I'm <strong>Eric Swanson</strong>, currently a full-stack developer
+<!--   working with <strong>React</strong> -->
+  .
 <!-- Also, I'm a freelancer. If you have a need for a mobile application or website, contact me by email:  -->
 Feel free to contact me at <a href="erics1337@@gmail.com">erics1337@gmail.com</a><br><br>
 <strong>My Blog</strong>: https://erics.design/blog <br>
