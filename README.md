@@ -1,5 +1,5 @@
 <img src="https://media.giphy.com/media/908fS3eQFUodG/giphy-downsized-large.gif" height="260px" align="right" alt="The information is INSIDE the computer">
-*The information is INSIDE the computer*
+<em>The information is INSIDE the computer</em>
 
 <p align="justify" margin="80%"> 
 <br>
