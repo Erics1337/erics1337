@@ -10,7 +10,7 @@ Feel free to contact me at <a href="erics1337@gmail.com">erics1337@gmail.com</a>
 <strong>My Blog</strong>: https://erics.design/blog <br>
 <strong>Fun fact</strong>: I learned to code while living off-grid 🌲<br>
 </p>
-<a href="https://wakatime.com/@d20b0690-27a5-44c9-b25c-9b9074ff3a13"><img src="https://wakatime.com/badge/user/d20b0690-27a5-44c9-b25c-9b9074ff3a13.svg" alt="Total time coded since Nov 5 2021" /></a><br><br>
+<br>
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=erics1337&count_private=true&show_icons=true&theme=calm&include_all_commits=true" height="180em"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erics1337&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=calm&count_private=true&show_icons=true" height="180em"/>
