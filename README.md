@@ -1,7 +1,5 @@
-<figure>
 <img src="https://media.giphy.com/media/908fS3eQFUodG/giphy-downsized-large.gif" height="260px" align="right" alt="The information is INSIDE the computer">
-<figcaption align="right">The information is INSIDE the computer</figcaption>
-</figure>
+<em align="right">The information is INSIDE the computer</em>
 
 <p align="justify" margin="80%"> 
 <br>
