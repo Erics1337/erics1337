@@ -1,4 +1,4 @@
-<p align="right">The information is INSIDE the computer
+<p align="right">The files are IN the computer
 <img src="https://media.giphy.com/media/908fS3eQFUodG/giphy-downsized-large.gif" height="260px" align="right" alt="The information is INSIDE the computer">
 </p>
 <h3>Hello!</h3>
