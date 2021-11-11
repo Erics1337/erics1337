@@ -26,9 +26,11 @@ Feel free to contact me at <a href="erics1337@gmail.com">erics1337@gmail.com</a>
 #### Skills
 [![PHP Badge](https://img.shields.io/badge/-PHP-purple?style=for-the-badge&labelColor=black&logo=PHP&logoColor=purple)](#)
 [![Python Badge](https://img.shields.io/badge/-Python-blue?style=for-the-badge&labelColor=black&logo=python&logoColor=blue)](#)
-[![Firebase Badge](https://img.shields.io/badge/-Firebase-e69514?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffa500)](#)
 [![ReactNative Badge](https://img.shields.io/badge/-ReactNative-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![NextJS Badge](https://img.shields.io/badge/-NextJS-white?style=for-the-badge&labelColor=black&logo=Next.js&logoColor=white)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+
+<!-- [![Firebase Badge](https://img.shields.io/badge/-Firebase-e69514?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffa500)](#) -->
+
 
