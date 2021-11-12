@@ -23,7 +23,7 @@ Feel free to contact me at <a href="erics1337@gmail.com">erics1337@gmail.com</a>
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erics1337&repo=top-game-jam&theme=calm)](https://github.com/erics1337/top-game-jam)
  -->
 
-#### Skills
+#### Favorite technologies that I am skilled in:
 [![PHP Badge](https://img.shields.io/badge/-PHP-purple?style=for-the-badge&labelColor=black&logo=PHP&logoColor=purple)](#)
 [![Python Badge](https://img.shields.io/badge/-Python-blue?style=for-the-badge&labelColor=black&logo=python&logoColor=blue)](#)
 [![ReactNative Badge](https://img.shields.io/badge/-ReactNative-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
