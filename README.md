@@ -1,5 +1,5 @@
 <p align="right">The files are IN the computer
-<img src="https://media.giphy.com/media/908fS3eQFUodG/gipy-downsized-large.gif" height="260px" align="right" alt="The information is INSIDE the computer">
+<img src="https://github.com/Erics1337/erics1337/blob/main/zoolander.gif?raw=true" height="260px" align="right" alt="The information is INSIDE the computer">
 </p>
 <h3>Hello!</h3>
 <p align="justify" margin="80%"> 
