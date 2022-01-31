@@ -4,7 +4,7 @@
 <h3>Hello!</h3>
 <p align="justify" margin="80%"> 
 <br>
-I'm <strong>Eric Swanson</strong>, a full-stack developer currently working with <strong>Moodle</strong> and <strong>Drupal</strong>.  I am also learning <strong>React</strong>.
+I'm <strong>Eric Swanson</strong>, a full-stack developer currently working with <strong>Javascript</strong> and <strong>PHP</strong>. 
 <!-- Also, I'm a freelancer. If you have a need for a mobile application or website, contact me by email:  -->
 Feel free to contact me at <a href="erics1337@gmail.com">erics1337@gmail.com</a><br><br>
 <strong>My Blog</strong>: https://erics.design/blog <br>
