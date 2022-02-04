@@ -24,13 +24,13 @@ Feel free to contact me at <a href="erics1337@gmail.com">erics1337@gmail.com</a>
 
 #### Tech I Know and Love
 [![PHP Badge](https://img.shields.io/badge/-PHP-purple?style=for-the-badge&labelColor=black&logo=PHP&logoColor=purple)](https://www.youtube.com/watch?v=a7_WFUlFS94)
-[![Python Badge](https://img.shields.io/badge/-Python-blue?style=for-the-badge&labelColor=black&logo=python&logoColor=blue)](https://www.youtube.com/watch?v=x7X9w_GIm1s)
+[![Python Badge](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&labelColor=yellow&logo=python&logoColor=yellow)](https://www.youtube.com/watch?v=x7X9w_GIm1s)
 [![ReactNative Badge](https://img.shields.io/badge/-ReactNative-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://reactnative.dev/)
 [![NextJS Badge](https://img.shields.io/badge/-NextJS-white?style=for-the-badge&labelColor=black&logo=Next.js&logoColor=white)](https://nextjs.org/) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://www.javascript.com/) 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://nodejs.org/en/about/)
 [![Figma Badge](https://img.shields.io/badge/-Figma-lightpurple?style=for-the-badge&labelColor=black&logo=figma&logoColor=lightpurple)](https://www.figma.com/)
 [![Firebase Badge](https://img.shields.io/badge/-Firebase-e69514?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffa500)](#)
-[![Drupal Badge](https://img.shields.io/badge/-Drupal-e69514?style=for-the-badge&labelColor=black&logo=drupal&logoColor=ffa500)](#)
+[![Drupal Badge](https://img.shields.io/badge/-Drupal-blue?style=for-the-badge&labelColor=white&logo=drupal&logoColor=blue)](#)
 
 
