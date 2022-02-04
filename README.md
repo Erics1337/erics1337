@@ -24,7 +24,7 @@ Feel free to contact me at <a href="erics1337@gmail.com">erics1337@gmail.com</a>
 
 #### Tech I Know and Love
 [![PHP Badge](https://img.shields.io/badge/-PHP-purple?style=for-the-badge&labelColor=black&logo=PHP&logoColor=purple)](https://www.youtube.com/watch?v=a7_WFUlFS94)
-[![Python Badge](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&labelColor=yellow&logo=python&logoColor=yellow)](https://www.youtube.com/watch?v=x7X9w_GIm1s)
+[![Python Badge](https://img.shields.io/badge/-Python-blue?style=for-the-badge&labelColor=yellow&logo=python&logoColor=yellow)](https://www.youtube.com/watch?v=x7X9w_GIm1s)
 [![ReactNative Badge](https://img.shields.io/badge/-ReactNative-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://reactnative.dev/)
 [![NextJS Badge](https://img.shields.io/badge/-NextJS-white?style=for-the-badge&labelColor=black&logo=Next.js&logoColor=white)](https://nextjs.org/) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://www.javascript.com/) 
