@@ -32,6 +32,6 @@ Feel free to contact me at <a href="erics1337@gmail.com">erics1337@gmail.com</a>
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://nodejs.org/en/about/)
 [![Figma Badge](https://img.shields.io/badge/-Figma-lightpurple?style=for-the-badge&labelColor=black&logo=figma&logoColor=lightpurple)](https://www.figma.com/)
 [![Firebase Badge](https://img.shields.io/badge/-Firebase-e69514?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffa500)](https://firebase.google.com/)
-
+[![MongoDB_Badge](https://img.shields.io/badge/-Mongodb-green?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=green)](https://www.mongodb.com/)
 
 
