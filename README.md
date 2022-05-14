@@ -18,7 +18,7 @@ Feel free to contact me at <a href="erics1337@gmail.com">erics1337@gmail.com</a>
 
 ### Check out
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erics1337&repo=TinyFeetServer&theme=calm)](https://github.com/erics1337/TinyFeetServer) -->
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erics1337&repo=Tiny-Feet-Community&theme=calm)](https://github.com/erics1337/Tiny-Feet-Community) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erics1337&repo=Tiny-Feet-Community&theme=calm)](https://github.com/erics1337/Tiny-Feet-Community) --> 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erics1337&repo=socialbrain-app&theme=calm)](https://github.com/erics1337/socialbrain-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erics1337&repo=social-brain-network&theme=calm)](https://github.com/erics1337/social-brain-network)
 
