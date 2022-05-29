@@ -15,9 +15,10 @@ Feel free to contact me at <a href="erics1337@gmail.com">erics1337@gmail.com</a>
 <img src="https://github-readme-stats.vercel.app/api?username=erics1337&count_private=true&show_icons=true&theme=calm&include_all_commits=true" height="180em"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erics1337&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=calm&count_private=true&show_icons=true" height="180em"/>
 </p>
+
 ### Check out
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erics1337&repo=TinyFeetServer&theme=calm)](https://github.com/erics1337/TinyFeetServer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erics1337&repo=Tiny-Feet-Community&theme=calm)](https://github.com/erics1337/Tiny-Feet-Community)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erics1337&repo=TinyFeetServer&theme=calm)](https://github.com/erics1337/TinyFeetServer) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erics1337&repo=Tiny-Feet-Community&theme=calm)](https://github.com/erics1337/Tiny-Feet-Community) --> 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erics1337&repo=socialbrain-app&theme=calm)](https://github.com/erics1337/socialbrain-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erics1337&repo=social-brain-network&theme=calm)](https://github.com/erics1337/social-brain-network)
 
@@ -34,5 +35,3 @@ Feel free to contact me at <a href="erics1337@gmail.com">erics1337@gmail.com</a>
 [![Python Badge](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&labelColor=blue&logo=python&logoColor=yellow)](https://www.youtube.com/watch?v=x7X9w_GIm1s)
 [![Flask_Badge](https://img.shields.io/badge/-Flask-white?style=for-the-badge&labelColor=black&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.1.x/)
 [![Django_Badge](https://img.shields.io/badge/-Django-green?style=for-the-badge&labelColor=3C873A&logo=django&logoColor=white)](https://www.djangoproject.com/)
-
-
