@@ -23,6 +23,7 @@ Feel free to contact me at <a href="erics1337@gmail.com">erics1337@gmail.com</a>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erics1337&repo=social-brain-network&theme=calm)](https://github.com/erics1337/social-brain-network)
 
 #### Tech I Know and Love
+[![VueJS Badge](https://img.shields.io/badge/-Vue.js-darkgreen?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=green)](https://vuejs.org/)
 [![PHP Badge](https://img.shields.io/badge/-PHP-purple?style=for-the-badge&labelColor=black&logo=PHP&logoColor=purple)](https://www.youtube.com/watch?v=a7_WFUlFS94)
 [![Drupal Badge](https://img.shields.io/badge/-Drupal-blue?style=for-the-badge&labelColor=white&logo=drupal&logoColor=blue)](https://www.drupal.org/)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://www.javascript.com/) 
