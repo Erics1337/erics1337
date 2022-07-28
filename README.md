@@ -10,7 +10,9 @@ I'm <strong>Eric Swanson</strong>, a full-stack developer currently working with
 <!-- Also, I'm a freelancer. If you have a need for a mobile application or website, contact me by email:  -->
 Feel free to contact me at <a href="erics1337@gmail.com">erics1337@gmail.com</a><br><br>
 <strong>My Blog</strong>: https://erics.design/blog <br>
-<strong>Fun fact</strong>: I started learning how to code while living off-grid 🌲<br>
+<!--
+<strong>
+Fun fact</strong>: I started learning how to code while living off-grid 🌲<br> -->
 </p>
 <br>
 <p>
