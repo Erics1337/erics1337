@@ -42,4 +42,4 @@ Fun fact</strong>: I started learning how to code while living off-grid 🌲<br>
 [![Flask_Badge](https://img.shields.io/badge/-Flask-white?style=for-the-badge&labelColor=black&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.1.x/)
 [![Django_Badge](https://img.shields.io/badge/-Django-green?style=for-the-badge&labelColor=3C873A&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Wordpress Badge](https://img.shields.io/badge/-Wordpress-black?style=for-the-badge&labelColor=white&logo=wordpress&logoColor=gray)](https://wordpress.org)
-[![Drupal Badge](https://img.shields.io/badge/-Drupal-blue?style=for-the-badge&labelColor=white&logo=drupal&logoColor=blue)](https://www.drupal.org/)
+[![Drupal Badge](https://img.shields.io/badge/-Drupal-blue?style=for-the-badge&labelColor=white&logo=drupal&logoColor=blue)](https://www.drupal.org)
