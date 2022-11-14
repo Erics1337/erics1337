@@ -19,7 +19,6 @@ Fun fact</strong>: I started learning how to code while living off-grid 🌲<br>
 <img src="https://github-readme-stats.vercel.app/api?username=erics1337&count_private=true&show_icons=true&theme=calm&include_all_commits=true" height="180em"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erics1337&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=calm&count_private=true&show_icons=true" height="180em"/>
 </p>
-
 ### Check out
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erics1337&repo=TinyFeetServer&theme=calm)](https://github.com/erics1337/TinyFeetServer) -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erics1337&repo=Tiny-Feet-Community&theme=calm)](https://github.com/erics1337/Tiny-Feet-Community) --> 
