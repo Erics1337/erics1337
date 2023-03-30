@@ -9,7 +9,7 @@
 I'm <strong>Eric Swanson</strong>, a full-stack developer currently working with <strong>PHP</strong> and <strong>Javascript</strong>. I also use <strong>Python</strong>, <strong>C++</strong> and <strong>Java</strong>.
 <!-- Also, I'm a freelancer. If you have a need for a mobile application or website, contact me by email:  -->
 Feel free to contact me at <a href="erics1337@gmail.com">erics1337@gmail.com</a><br><br>
-<strong>My Blog</strong>: https://erics.design/blog <br>
+<strong>My Blog</strong>: https://ericsdevportfolio.com/blog <br>
 <!--
 <strong>
 Fun fact</strong>: I started learning how to code while living off-grid 🌲<br> -->
