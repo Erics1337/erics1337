@@ -6,7 +6,7 @@
 <h3>Hello!</h3>
 <p align="justify" margin="80%"> 
 <br>
-I'm <strong>Eric Swanson</strong>, a full-stack developer currently working with <strong>PHP</strong> and <strong>Javascript</strong>. I also use <strong>Python</strong>, <strong>C++</strong> and <strong>Java</strong>.
+I'm <strong>Eric Swanson</strong>, a full-stack developer currently working with <strong>PHP</strong> and <strong>Javascript/Typescript</strong>. I also use <strong>Python</strong>, <strong>C++</strong> and <strong>Java</strong>.
 <!-- Also, I'm a freelancer. If you have a need for a mobile application or website, contact me by email:  -->
 Feel free to contact me at <a href="erics1337@gmail.com">erics1337@gmail.com</a><br><br>
 <strong>My Blog</strong>: https://ericsdevportfolio.com/blog <br>
@@ -19,11 +19,11 @@ Fun fact</strong>: I started learning how to code while living off-grid 🌲<br>
 <img src="https://github-readme-stats.vercel.app/api?username=erics1337&count_private=true&show_icons=true&theme=calm&include_all_commits=true" height="180em"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erics1337&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=calm&count_private=true&show_icons=true" height="180em"/>
 </p>
-### Check out
+<!-- ### Check out -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erics1337&repo=TinyFeetServer&theme=calm)](https://github.com/erics1337/TinyFeetServer) -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erics1337&repo=Tiny-Feet-Community&theme=calm)](https://github.com/erics1337/Tiny-Feet-Community) --> 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erics1337&repo=socialbrain-app&theme=calm)](https://github.com/erics1337/socialbrain-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erics1337&repo=social-brain-network&theme=calm)](https://github.com/erics1337/social-brain-network)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erics1337&repo=socialbrain-app&theme=calm)](https://github.com/erics1337/socialbrain-app) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erics1337&repo=social-brain-network&theme=calm)](https://github.com/erics1337/social-brain-network) -->
 
 #### Tech I Know and Love
 [![VueJS Badge](https://img.shields.io/badge/-Vue.js-darkgreen?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=green)](https://vuejs.org/)
