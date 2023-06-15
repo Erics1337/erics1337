@@ -6,7 +6,7 @@
 <h3>Hello!</h3>
 <p align="justify" margin="80%"> 
 <br>
-I'm <strong>Eric Swanson</strong>, a full-stack developer currently working with <strong>PHP</strong> and <strong>Javascript/Typescript</strong>. I also use <strong>Python</strong>, <strong>C++</strong> and <strong>Java</strong>.
+I'm <strong>Eric Swanson</strong>, a full-stack developer currently working with <strong>PHP</strong> and <strong>Javascript/Typescript</strong>. I am interested in Content Management systems, Web App development using Node.js, and Mobile development using React Native.  My side projects include implementing research in Social Brain Theory into tools and applications that can empower users while managing their life's social network.
 <!-- Also, I'm a freelancer. If you have a need for a mobile application or website, contact me by email:  -->
 Feel free to contact me at <a href="erics1337@gmail.com">erics1337@gmail.com</a><br><br>
 <strong>My Blog</strong>: https://ericsdevportfolio.com/blog <br>
