@@ -11,8 +11,6 @@ I'm <strong>Eric Swanson</strong>, a full-stack developer currently working with
 Feel free to contact me at <a href="erics1337@gmail.com">erics1337@gmail.com</a><br><br>
 <strong>My Blog</strong>: https://ericsdevportfolio.com/blog <br>
 <!--
-<strong>
-Fun fact</strong>: I started learning how to code while living off-grid 🌲<br> -->
 </p>
 <br>
 <p>
