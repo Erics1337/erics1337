@@ -7,7 +7,7 @@
 <h3>Hello!</h3>
 <p align="justify" margin="80%"> 
 <br>
-I am <strong>Eric Swanson</strong>, a seasoned full-stack developer specializing in <strong>PHP</strong>, <strong>JavaScript/TypeScript</strong>. My passion lies in Content Management Systems, Web Application development with Node.js, and Mobile Application development using React Native. My project portfolio showcases applications that leverage insights from Social Brain Theory to create tools that empower users to enhance their relationships through thoughtful reflection and improvement.
+I am <strong>Eric Swanson</strong>, a full-stack developer specializing in <strong>PHP</strong> and <strong>JavaScript/TypeScript</strong>. My passion lies in Content Management Systems, Web Application development with Node.js, and Mobile Application development using React Native. My project portfolio showcases applications that leverage insights from Social Brain Theory to create tools that empower users to enhance their relationships through thoughtful reflection and improvement.
 <!-- Also, I'm a freelancer. If you have a need for a mobile application or website, contact me by email:  -->
 Feel free to contact me at <a href="erics1337@gmail.com">erics1337@gmail.com</a><br><br>
 <strong>My Blog</strong>: https://ericsdevportfolio.com/blog <br>
