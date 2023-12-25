@@ -1,9 +1,3 @@
-<!--
-<p align="right">The files are IN the computer
-<img src="https://github.com/Erics1337/erics1337/blob/main/zoolander.gif?raw=true" height="260px" align="right" alt="The files are IN the computer">
-</p>
--->
-
 <h3>Hello!</h3>
 <p align="justify" margin="80%"> 
 <br>
