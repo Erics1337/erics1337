@@ -2,6 +2,7 @@
 <p align="justify" margin="80%"> 
 <br>
 I am <strong>Eric Swanson</strong>, a full-stack developer specializing in <strong>PHP</strong>, <strong>Python</strong>, <strong>TypeScript</strong> and <strong>Go</strong>. My passion lies in Content Management Systems, Web Application development with Node.js, and Mobile Application development using React Native. My project portfolio showcases applications that leverage insights from Social Brain Theory to create tools that empower users to enhance their relationships through thoughtful reflection and improvement.
+  
 <strong>My Blog</strong>: https://ericsdevportfolio.com/blog <br>
 <!--
 </p>
