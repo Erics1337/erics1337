@@ -4,15 +4,7 @@
 
 I’m a **full-stack software engineer** and **digital creator** specializing in **PHP**, **Python**, **TypeScript**, and **Go**, with a strong focus on building **scalable SaaS platforms**, **AI-powered applications**, and **custom CMS ecosystems**.  
 
-My background spans **Content Management Systems**, **Web Application Development**, and **Mobile App Development** (React Native).
-
-### 🧠 Tech & Creative Focus
-
-- SaaS platform development
-- Agentic AI systems, RAG pipelines & computer vision  
-- Cloud-native microservices (AWS, Supabase, Docker)  
-- Developer tooling & design systems (Crest UI)  
-- Human-centered design and digital product strategy  
+My background spans **Content Management Systems**, **Web Application Development**, and **Mobile App Development**.
 
 ---
 
