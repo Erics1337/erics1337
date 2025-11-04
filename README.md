@@ -10,7 +10,7 @@ My background spans **Content Management Systems**, **Web Application Developmen
 
 ### 🚀 Available for Hire
 
-I’m currently open to **freelance, contract, or collaboration opportunities** in:  
+I’m currently open to opportunities in:  
 - Full-stack web and SaaS development  
 - AI integrations (LangChain, RAG, OpenAI SDKs)  
 - Drupal & WordPress development  
@@ -20,10 +20,10 @@ I’m currently open to **freelance, contract, or collaboration opportunities** 
 
 Whether you’re a **startup**, **agency**, or **local business** — I can help design, build, and scale your next digital product.
 
-📬 Reach out here or connect via [LinkedIn](https://www.linkedin.com/in/ericswansons/).
 
 ---
-
+Reach out here or connect via [LinkedIn](https://www.linkedin.com/in/ericswansons/).
+<br/><br/>
 <strong>My Blog</strong>: https://ericsdevportfolio.com/blog <br>
 <!--
 </p>
