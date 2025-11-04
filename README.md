@@ -1,8 +1,52 @@
-<h3>Hello!</h3>
 <p align="justify" margin="80%"> 
 <br>
-I am <strong>Eric Swanson</strong>, a full-stack developer specializing in <strong>PHP</strong>, <strong>Python</strong>, <strong>TypeScript</strong> and <strong>Go</strong>. My passion lies in Content Management Systems, Web Application development with Node.js, and Mobile Application development using React Native. My project portfolio showcases applications that leverage insights from Social Brain Theory to create tools that empower users to enhance their relationships through thoughtful reflection and improvement.
-  
+👋 Hi, I’m Eric Swanson
+
+I’m a **full-stack software engineer** and **digital creator** specializing in **PHP**, **Python**, **TypeScript**, and **Go**, with a strong focus on building **scalable SaaS platforms**, **AI-powered applications**, and **custom CMS ecosystems**.  
+
+My background spans **Content Management Systems**, **Web Application Development**, and **Mobile App Development** (React Native).
+
+---
+
+### 💡 Featured Work
+
+- **[TeamCrest](https://teamcrestapp.com)** — An AI-enhanced employee scheduling and operations SaaS helping small businesses streamline workforce management.  
+  Includes AI scheduling, computer-vision chemical logging, and a RAG-based virtual manager chatbot.
+
+- **[Crest UI](https://erics1337.github.io/crest-ui/)** — A modern design system and component library powering my web projects, optimized for React + Tailwind.
+
+- **[Yoga-Flow](https://apps.apple.com/us/app/yoga-flow/id6751249807)** — An AI-powered yoga sequence generation and playback app for iOS.
+
+- **Social Brain Tools** — Applications inspired by *Social Brain Theory*, designed to help users reflect, connect, and grow through thoughtful relationship insights.
+
+---
+
+### 🧠 Tech & Creative Focus
+
+- SaaS platform development
+- Agentic AI systems, RAG pipelines & computer vision  
+- Cloud-native microservices (AWS, Supabase, Docker)  
+- Developer tooling & design systems (Crest UI)  
+- Human-centered design and digital product strategy  
+
+---
+
+### 🚀 Available for Hire
+
+I’m currently open to **freelance, contract, or collaboration opportunities** in:  
+- Full-stack web and SaaS development  
+- AI integrations (LangChain, RAG, OpenAI SDKs)  
+- Drupal & WordPress development  
+- Plugin and API integrations  
+- Digital strategy, branding & marketing tools  
+- SEO optimization, analytics, and automation systems  
+
+Whether you’re a **startup**, **agency**, or **local business** — I can help design, build, and scale your next digital product.
+
+📬 Reach out here or connect via [LinkedIn](https://www.linkedin.com/in/ericswansons/).
+
+---
+
 <strong>My Blog</strong>: https://ericsdevportfolio.com/blog <br>
 <!--
 </p>
