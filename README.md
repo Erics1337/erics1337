@@ -2,7 +2,7 @@
 <br>
 👋 Hi, I’m Eric Swanson
 
-I’m a **full-stack software engineer** and **digital creator** specializing in **PHP**, **Python**, **TypeScript**, and **Go**, with a strong focus on building **scalable SaaS platforms**, **AI-powered applications**, and **custom CMS ecosystems**.  
+I’m an AWS certified **full-stack software engineer** and **digital creator** specializing in **PHP**, **Python**, **TypeScript**, and **Go**, with a strong focus on building **scalable SaaS platforms**, **AI-powered applications**, and **custom CMS ecosystems**.  
 
 My background spans **Content Management Systems**, **Web Application Development**, and **Mobile App Development**.
 
@@ -22,7 +22,7 @@ Whether you’re a **startup**, **agency**, or **local business** — I can help
 
 
 ---
-Reach out here or connect via [LinkedIn](https://www.linkedin.com/in/ericswansons/).
+Reach out here or connect via [LinkedIn](https://www.linkedin.com/in/ericsdesign/).
 <br/><br/>
 <strong>My Blog</strong>: https://ericsdevportfolio.com/blog <br>
 <!--
