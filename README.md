@@ -22,7 +22,7 @@ Whether you’re a **startup**, **agency**, or **local business** — I can help
 
 
 ---
-Reach out via email or connect via [LinkedIn](https://www.linkedin.com/in/ericsdesign/).
+Reach out via email or connect with me on [LinkedIn](https://www.linkedin.com/in/ericsdesign/).
 <br/><br/>
 <strong>My Blog</strong>: https://ericsdevportfolio.com/blog <br>
 <!--
